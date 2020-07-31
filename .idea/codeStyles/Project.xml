@@ -1,0 +1,12 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="USE_SCALADOC2_FORMATTING" value="true" />
+      <option name="TYPE_ANNOTATION_LOCAL_DEFINITION" value="true" />
+      <option name="TYPE_ANNOTATION_EXCLUDE_WHEN_TYPE_IS_STABLE" value="false" />
+      <option name="TYPE_ANNOTATION_EXCLUDE_IN_TEST_SOURCES" value="true" />
+      <option name="SD_BLANK_LINE_BEFORE_TAGS" value="false" />
+      <option name="SD_PRESERVE_SPACES_IN_TAGS" value="true" />
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
